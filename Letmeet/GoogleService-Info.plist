@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>513380593325-81i7cobrjf67s0qqv1amt41ceu5gvug7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.513380593325-81i7cobrjf67s0qqv1amt41ceu5gvug7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBpPfJ53yXmgejX5r_iH-ZMEa4_w18O8Hw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>513380593325</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ioannisGiannakidis.Letmeet</string>
+	<key>PROJECT_ID</key>
+	<string>letsmeet-cd180</string>
+	<key>STORAGE_BUCKET</key>
+	<string>letsmeet-cd180.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:513380593325:ios:6d6f0cc819e6848c312024</string>
+	<key>DATABASE_URL</key>
+	<string>https://letsmeet-cd180.firebaseio.com</string>
+</dict>
+</plist>
